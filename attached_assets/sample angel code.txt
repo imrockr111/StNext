@@ -1,0 +1,179 @@
+Code for Get User Profile
+import http.client
+import mimetypes
+conn = http.client.HTTPSConnection(
+    " apiconnect.angelone.in "
+    )
+payload = ''
+headers = headers = {
+    'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+    'Accept': 'application/json',
+    'X-UserType': 'USER',
+    'X-SourceID': 'WEB',
+    'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+    'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+    'X-MACAddress': 'MAC_ADDRESS',
+    'X-PrivateKey': 'API_KEY'
+  }
+conn.request("GET",
+ "/rest/secure/angelbroking/user/
+ v1/getProfile", 
+ payload,
+ headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+Here code for Funds and Margins
+import http.client
+import mimetypes
+conn = http.client.HTTPSConnection(
+    " apiconnect.angelone.in "
+    )
+payload = ''
+headers = {
+    'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'X-UserType': 'USER',
+    'X-SourceID': 'WEB',
+    'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+    'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+    'X-MACAddress': 'MAC_ADDRESS',
+    'X-PrivateKey': 'API_KEY'
+  }
+conn.request("GET", 
+"/rest/secure/angelbroking/user/
+v1/getRMS", 
+payload, 
+headers)
+
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+This code will run twice a day one at 9:15 AM and 3:30PM Indian Standard Time
+
+For the Porfolio of a user
+Get all holdings using below code
+import http.client
+import mimetypes
+conn = http.client.HTTPSConnection(
+    " apiconnect.angelone.in "
+    )
+payload = ''
+headers = {
+  'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+  'Content-Type': 'application/json',
+  'Accept': 'application/json',
+  'X-UserType': 'USER',
+  'X-SourceID': 'WEB',
+  'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+  'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+  'X-MACAddress': 'MAC_ADDRESS',
+  'X-PrivateKey': 'API_KEY'
+}
+conn.request("GET", 
+"/rest/secure/angelbroking/portfolio/v1/getAllHolding", 
+payload, 
+headers)
+
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+
+Use the below code to fetch the market data and in response dont save the depth data for buy and sell.
+
+import http.client
+
+conn = http.client.HTTPSConnection("apiconnect.angelone.in")
+payload = {
+    "mode": "FULL",
+    "exchangeTokens": {
+        "NSE": ["3045"]
+    }
+}
+headers = {
+  'X-PrivateKey': 'API_KEY',
+  'Accept': 'application/json',
+  'X-SourceID': 'WEB',
+  'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+  'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+  'X-MACAddress': 'MAC_ADDRESS',
+  'X-UserType': 'USER',
+  'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+  'Accept': 'application/json',
+  'X-SourceID': 'WEB',
+  'Content-Type': 'application/json'
+}
+conn.request("POST", "rest/secure/angelbroking/market/v1/quote/", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+    
+
+To fetch the Option Geeks use below end point and request body
+Endpoint: https://apiconnect.angelone.in/rest/secure/angelbroking/marketData/v1/optionGreek
+Request Body: 
+{
+    "name":"TCS", // Here Name represents the Underlying stock
+    "expirydate":"25JAN2024"
+}
+
+To fetch list of NSE Instruments allowed for Intraday code is as below
+import http.client
+import mimetypes
+conn = http.client.HTTPSConnection(
+    " apiconnect.angelone.in "
+    )
+payload = ''
+headers = {
+  'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+  'Content-Type': 'application/json',
+  'Accept': 'application/json',
+  'X-UserType': 'USER',
+  'X-SourceID': 'WEB',
+  'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+  'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+  'X-MACAddress': 'MAC_ADDRESS',
+  'X-PrivateKey': 'API_KEY'
+}
+conn.request("GET", 
+"/rest/secure/angelbroking/marketData/v1/nseIntraday", 
+payload, 
+headers)
+
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+To fetch list of NSE Instruments allowed for Intraday code is as below
+import http.client
+import mimetypes
+conn = http.client.HTTPSConnection(
+    " apiconnect.angelone.in "
+    )
+payload = ''
+headers = {
+  'Authorization': 'Bearer AUTHORIZATION_TOKEN',
+  'Content-Type': 'application/json',
+  'Accept': 'application/json',
+  'X-UserType': 'USER',
+  'X-SourceID': 'WEB',
+  'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
+  'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
+  'X-MACAddress': 'MAC_ADDRESS',
+  'X-PrivateKey': 'API_KEY'
+}
+conn.request("GET", 
+"/rest/secure/angelbroking/marketData/v1/bseIntraday", 
+payload, 
+headers)
+
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+I want you to store the data in the instrument table with respect to the token giving an extra column name "allowed for intraday" and value can be 1 for status is true and 0 for status is false and also another column with heading intraday margin and saving data of multiplier from the above json response.
+  
