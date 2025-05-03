@@ -1,0 +1,804 @@
+2025-05-02 20:21:23,328 - utils.services - INFO - Database initialized
+2025-05-02 20:21:23,331 - utils.services - INFO - Database initialized
+2025-05-02 20:21:23,331 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:21:24,613 - utils.services - INFO - Database initialized
+2025-05-02 20:21:24,614 - utils.services - INFO - Database initialized
+2025-05-02 20:21:24,615 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:22:08,470 - utils.services - INFO - Database initialized
+2025-05-02 20:22:08,471 - utils.services - INFO - Database initialized
+2025-05-02 20:22:08,471 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:22:14,712 - utils.services - INFO - Database initialized
+2025-05-02 20:22:14,714 - utils.services - INFO - Database initialized
+2025-05-02 20:22:14,715 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:22:46,809 - utils.services - INFO - Database initialized
+2025-05-02 20:22:46,810 - utils.services - INFO - Database initialized
+2025-05-02 20:22:46,810 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:22:47,148 - utils.services - INFO - User registered successfully: imrockr11
+2025-05-02 20:22:47,269 - utils.services - INFO - Database initialized
+2025-05-02 20:22:47,272 - utils.services - INFO - Database initialized
+2025-05-02 20:22:47,272 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:23:04,717 - utils.services - INFO - Database initialized
+2025-05-02 20:23:04,718 - utils.services - INFO - Database initialized
+2025-05-02 20:23:04,718 - utils.services - ERROR - Error initializing system: 'function' object has no attribute 'clear'
+2025-05-02 20:23:05,021 - utils.services - INFO - User authenticated successfully: imrockr11
+2025-05-02 20:26:00,722 - utils.services - INFO - Database initialized
+2025-05-02 20:26:00,723 - utils.services - INFO - Database initialized
+2025-05-02 20:26:00,727 - utils.services - INFO - Scheduler started
+2025-05-02 20:26:00,727 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:00,728 - utils.services - INFO - Services initialized
+2025-05-02 20:26:00,728 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:02,479 - utils.services - INFO - Database initialized
+2025-05-02 20:26:02,480 - utils.services - INFO - Database initialized
+2025-05-02 20:26:02,480 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:02,481 - utils.services - INFO - Services initialized
+2025-05-02 20:26:02,481 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:20,691 - utils.services - INFO - Database initialized
+2025-05-02 20:26:20,692 - utils.services - INFO - Database initialized
+2025-05-02 20:26:20,693 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:20,693 - utils.services - INFO - Services initialized
+2025-05-02 20:26:20,693 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:25,166 - utils.services - INFO - Database initialized
+2025-05-02 20:26:25,167 - utils.services - INFO - Database initialized
+2025-05-02 20:26:25,167 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:25,167 - utils.services - INFO - Services initialized
+2025-05-02 20:26:25,167 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:48,494 - utils.services - INFO - Database initialized
+2025-05-02 20:26:48,495 - utils.services - INFO - Database initialized
+2025-05-02 20:26:48,495 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:48,496 - utils.services - INFO - Services initialized
+2025-05-02 20:26:48,496 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:53,841 - utils.services - INFO - Database initialized
+2025-05-02 20:26:53,841 - utils.services - INFO - Database initialized
+2025-05-02 20:26:53,841 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:53,841 - utils.services - INFO - Services initialized
+2025-05-02 20:26:53,841 - utils.services - INFO - System initialized successfully
+2025-05-02 20:26:57,308 - utils.services - INFO - Database initialized
+2025-05-02 20:26:57,310 - utils.services - INFO - Database initialized
+2025-05-02 20:26:57,312 - utils.services - INFO - API instance initialized
+2025-05-02 20:26:57,314 - utils.services - INFO - Services initialized
+2025-05-02 20:26:57,315 - utils.services - INFO - System initialized successfully
+2025-05-02 20:27:16,692 - utils.services - INFO - Database initialized
+2025-05-02 20:27:16,693 - utils.services - INFO - Database initialized
+2025-05-02 20:27:16,693 - utils.services - INFO - API instance initialized
+2025-05-02 20:27:16,694 - utils.services - INFO - Services initialized
+2025-05-02 20:27:16,694 - utils.services - INFO - System initialized successfully
+2025-05-02 20:27:17,006 - utils.services - INFO - User authenticated successfully: imrockr11
+2025-05-02 20:27:17,105 - utils.services - INFO - Database initialized
+2025-05-02 20:27:17,108 - utils.services - INFO - Database initialized
+2025-05-02 20:27:17,108 - utils.services - INFO - API instance initialized
+2025-05-02 20:27:17,109 - utils.services - INFO - Services initialized
+2025-05-02 20:27:17,109 - utils.services - INFO - System initialized successfully
+2025-05-02 20:28:15,603 - utils.services - INFO - Database initialized
+2025-05-02 20:28:15,605 - utils.services - INFO - Database initialized
+2025-05-02 20:28:15,605 - utils.services - INFO - API instance initialized
+2025-05-02 20:28:15,605 - utils.services - INFO - Services initialized
+2025-05-02 20:28:15,605 - utils.services - INFO - System initialized successfully
+2025-05-02 20:28:15,661 - utils.services - ERROR - Error logging in to AngelOne: cannot import name 'AngelOneConnector' from 'utils.api_connector' (/home/runner/workspace/utils/api_connector.py)
+2025-05-02 20:30:35,728 - utils.services - INFO - Database initialized
+2025-05-02 20:30:35,729 - utils.services - INFO - Database initialized
+2025-05-02 20:30:35,730 - utils.services - INFO - Scheduler started
+2025-05-02 20:30:35,731 - utils.services - INFO - API instance initialized
+2025-05-02 20:30:35,731 - utils.services - INFO - Services initialized
+2025-05-02 20:30:35,731 - utils.services - INFO - System initialized successfully
+2025-05-02 20:30:36,696 - utils.services - INFO - Database initialized
+2025-05-02 20:30:36,697 - utils.services - INFO - Database initialized
+2025-05-02 20:30:36,698 - utils.services - INFO - API instance initialized
+2025-05-02 20:30:36,698 - utils.services - INFO - Services initialized
+2025-05-02 20:30:36,698 - utils.services - INFO - System initialized successfully
+2025-05-02 20:31:05,015 - utils.services - INFO - Database initialized
+2025-05-02 20:31:05,016 - utils.services - INFO - Database initialized
+2025-05-02 20:31:05,017 - utils.services - INFO - API instance initialized
+2025-05-02 20:31:05,017 - utils.services - INFO - Services initialized
+2025-05-02 20:31:05,017 - utils.services - INFO - System initialized successfully
+2025-05-02 20:31:05,329 - utils.services - INFO - User authenticated successfully: imrockr11
+2025-05-02 20:31:06,943 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFF5TmpZc0ltNWlaaUk2TVRjME5qSXhOelk0Tml3aWFXRjBJam94TnpRMk1qRTNOamcyTENKcWRHa2lPaUpoTkdGaU5XWXpOaTB5WkRkaUxUUTRaRFl0T1RnME55MWtaRGc0TURkaE4yRm1NMllpTENKVWIydGxiaUk2SWlKOS5DYlZrSE5wdVBpdFBPbXdKZXFub3E1ZEM3RksyLVVSeFF6Xy1aQVU0RnBzeUxqaGdyclFxcEE2TUROaFo4Zmd4VmxWbEh2ejQxNmlqZm0zd2xzbmxKWHczN0RxSTNBMkdZeVk1d2tiV1FjWS16R0ZmT19rYWZqMEtoVkllWDdYQVFBYzVSSldwTnlpY1I4OFBQRTlFYzFVa2tyREJaUS1LRjN2VEFCa3pZVVEiLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTc4NjYsImV4cCI6MTc0NjMwNDI2Nn0.xPKq3_qm9e0cneuFBymh22HPWmmgbbeHt5N-rBoSwscEopKjza8QCIXsyCVozf3wqbuPJMUtOSvVTxVi9VsF4w",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFF5TmpZc0ltNWlaaUk2TVRjME5qSXhOelk0Tml3aWFXRjBJam94TnpRMk1qRTNOamcyTENKcWRHa2lPaUkxTVdZeU1qZ3pNQzB3WkRVNExUUmhNVFF0T0dRd1pDMDJaV0ZpWW1WbU5qY3pOemNpTENKVWIydGxiaUk2SWlKOS5MbkJFR2x6OGdyQlZETDZoT1JlMGg3RTJPeDQwWmcwc2lTdW04RlpSV3BDbUhod2RTOC1HMTB3anZZVFZod0RTaDVxVXl4b094eHpwQ1N2QjFmQTNDbW16QjNGQ2hsY3M2UkNMRTdKcHFrSEFtb3pXbU9NZDQ0UGlWcmRSRzlnajFiMFNFREFzVDE2Z2Vlb0dHbTItN2RSQVNjNFlDemhwTVExVkpoMm5pYkEiLCJpYXQiOjE3NDYyMTc4NjZ9.5wd_XYwy_CYqgyndAWLFvm7Jom0TUE9PjRIbpS3FNgnmwXPBlBcoAu1LK4p94KGThj23f1cvAAm_EXRkHaL4Dw",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTc4NjYsImV4cCI6MTc0NjMwNDI2Nn0.96D9iTnDNnLHtgmiuSnFgHU45ZRsEBQWYlW8c0iNVhJkKVYM6nZHG3hpY_jl1z63PLPLIO4HwGwzqt2BN5JzFA"
+  }
+}
+2025-05-02 20:31:06,945 - utils.api_connector - ERROR - Error in login: 'sessionToken'
+2025-05-02 20:31:06,945 - utils.services - WARNING - Login failed for user 1
+2025-05-02 20:31:07,043 - utils.services - INFO - Database initialized
+2025-05-02 20:31:07,045 - utils.services - INFO - Database initialized
+2025-05-02 20:31:07,045 - utils.services - INFO - API instance initialized
+2025-05-02 20:31:07,045 - utils.services - INFO - Services initialized
+2025-05-02 20:31:07,045 - utils.services - INFO - System initialized successfully
+2025-05-02 20:31:59,723 - utils.services - INFO - Database initialized
+2025-05-02 20:31:59,724 - utils.services - INFO - Database initialized
+2025-05-02 20:31:59,725 - utils.services - INFO - API instance initialized
+2025-05-02 20:31:59,725 - utils.services - INFO - Services initialized
+2025-05-02 20:31:59,725 - utils.services - INFO - System initialized successfully
+2025-05-02 20:32:01,293 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFF6TWpBc0ltNWlaaUk2TVRjME5qSXhOemMwTUN3aWFXRjBJam94TnpRMk1qRTNOelF3TENKcWRHa2lPaUl4WlRoak9EWmtNUzFpWkRka0xUUTVNemt0WVdRNVppMHhZekE1TWprelpUTTBZbVFpTENKVWIydGxiaUk2SWlKOS5vOUg4S05Tdmo1ZEk4M0pBWnVfUVdGMHg2RDh6V3gtMUZwSGRaUzBiYTRUOV9vZjlIMnI0RVhpenJNaFNxaDdfazdjN04zWmw4OS03aF9tMk5tNjFMc19ic2p3cnZSZGZscWJuUFVRVDFrS0hWT1owdEl6N1Y5SnYxLW12VEpna21XOXppOHlzc0JyM1Fnck5pR1dPR21jd1ZGNjlINHg2Z29uZi1GbjVkYm8iLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTc5MjAsImV4cCI6MTc0NjMwNDMyMH0.H4ZlpHLpBZmvjcu6LfiWWdUwZkkccXcQqeQ-Xq1v7KYVbCUtALnPn--8LdCJMif8NHGH2OW_w_k-DG1T1wbOZg",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFF6TWpBc0ltNWlaaUk2TVRjME5qSXhOemMwTUN3aWFXRjBJam94TnpRMk1qRTNOelF3TENKcWRHa2lPaUkwWVRVMFpHSmxOUzFoTVRJNUxUUTFZbU10WVdGaU5DMWxaamt5WTJZd1ltRTVOVFVpTENKVWIydGxiaUk2SWlKOS5qbXhFT3lrQmhSSGZvTllaNmsyMndyb04tdDVmTDF0aktTcklfX2h5ZE5VdU9xYWhFd3ZiWndCLWM3OXBYeW1MY3NENC1IWmlGZzNfc0VyWWpld0xXSS14bmo1TkFQbDBFTVpSQUx2X3MzV3lUX2ptY0dVeVVnRkQ0UmRZSVd3akdiQ1FUd3l0YjhYRlFrTDlvZWNfc1kzYlVLSTJqQjFLcGpsYTQ1emNjWTgiLCJpYXQiOjE3NDYyMTc5MjB9.QfWfgL8HsPcQtnRSPf_kv6JaaKKKd0QqvFZv67kJ8p4pe9J7oTIpMrzT_ZNUAKTVtaBdXnUYgMfJ2JSG7EOwHg",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTc5MjAsImV4cCI6MTc0NjMwNDMyMH0.qN7Z_p7v1DupAOi1aPlWWlOIZCAnKl1EUQbnYqKfIEwd3l6MwCsZ4Pk2cDtnOXk_xGCv8QOLNODzcQ5tq9r6yg"
+  }
+}
+2025-05-02 20:32:01,293 - utils.api_connector - ERROR - Error in login: 'sessionToken'
+2025-05-02 20:32:01,294 - utils.services - WARNING - Login failed for user 1
+2025-05-02 20:33:42,354 - utils.services - INFO - Database initialized
+2025-05-02 20:33:42,356 - utils.services - INFO - Database initialized
+2025-05-02 20:33:42,363 - utils.services - INFO - Scheduler started
+2025-05-02 20:33:42,363 - utils.services - INFO - API instance initialized
+2025-05-02 20:33:42,365 - utils.services - INFO - Services initialized
+2025-05-02 20:33:42,365 - utils.services - INFO - System initialized successfully
+2025-05-02 20:33:43,369 - utils.services - INFO - Database initialized
+2025-05-02 20:33:43,370 - utils.services - INFO - Database initialized
+2025-05-02 20:33:43,370 - utils.services - INFO - API instance initialized
+2025-05-02 20:33:43,370 - utils.services - INFO - Services initialized
+2025-05-02 20:33:43,370 - utils.services - INFO - System initialized successfully
+2025-05-02 20:34:07,494 - utils.services - INFO - Database initialized
+2025-05-02 20:34:07,495 - utils.services - INFO - Database initialized
+2025-05-02 20:34:07,496 - utils.services - INFO - API instance initialized
+2025-05-02 20:34:07,496 - utils.services - INFO - Services initialized
+2025-05-02 20:34:07,497 - utils.services - INFO - System initialized successfully
+2025-05-02 20:34:07,799 - utils.services - INFO - User authenticated successfully: imrockr11
+2025-05-02 20:34:09,359 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFEwTkRnc0ltNWlaaUk2TVRjME5qSXhOemcyT0N3aWFXRjBJam94TnpRMk1qRTNPRFk0TENKcWRHa2lPaUl6TkdWbU9EVmpaQzFqT1RreExUUmtNall0T1RjM1ppMDFNalU0WkdRMU1ETTVOR0VpTENKVWIydGxiaUk2SWlKOS5SY2k0SlRWcjhtZ3JTbUF3Sk54OGNBenlPcm9fZ0t3R0JBYjZlOVNvTGJtYTNZclB3TUhQRUVTYVVFZHlNbTlzeDdqTUlJdjJmbndPQ25pQjJqOWpDazlWMzA0bGRCRnczOVh5MnpDR1JnOEdtb2FRMEs5b1l4NTk1Y3FhTk1OMlJwU3lrTUhQSmc5NE9OQ0UwZWxIcU5vM1YwZktmU01tVG1kcWtyLWpoeWsiLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTgwNDgsImV4cCI6MTc0NjMwNDQ0OH0.OtxorQziDvj9F4w-GpWUsyEq3QbG9BlEB02vNSLyiu69fLn5-bdWwhHX5s7cHhl1n1dRq4lplJ7BJiHDMjzV5g",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFEwTkRnc0ltNWlaaUk2TVRjME5qSXhOemcyT0N3aWFXRjBJam94TnpRMk1qRTNPRFk0TENKcWRHa2lPaUk0TXpFME1HRTRNeTAyTkRBeExUUTNNakV0T1RGa09TMDJPRGxpTkRKaFpqQXlOellpTENKVWIydGxiaUk2SWlKOS5objI2WUtRYjE0QzdlampDZUk5WHNSUEtYNUFPcmxnUGNmVDVHMWVnTW5pZXRkN1dwT0FmN0hQdHc1d2ZqZHM1YzZCQzJWeHJOMHhoMUNxMXl4b05oS0VYVGZkSGJqSUdEeHVhREExcjFlbG5tb1FGek02VVNadkRLX21POENaM0FPbGVKcjlFM2dDb1RTQzhOUzk3eWR0ZGNSeW5SZFNKeVh2LU9qa0hTUlEiLCJpYXQiOjE3NDYyMTgwNDh9.Tt-Ok00rWyvtPONC4oP4ckbV088oMWR0HvHR8ojoV3XiqAdYmVzZ9bc0ZlhPtbXFEk-yAalvVcRhzKg-2qiNDw",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTgwNDgsImV4cCI6MTc0NjMwNDQ0OH0.39bKhcvbbTN_hZTOPprELRT0MJSFNJ2adGvt6e41eh76nQ-UvWzWDLDwi-QPmfev_I2vCoeIGYwIQATdaBHQCQ"
+  }
+}
+2025-05-02 20:34:09,359 - utils.api_connector - WARNING - Could not get user profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:34:09,359 - utils.api_connector - INFO - Login successful for client ID: P819276
+2025-05-02 20:34:09,360 - utils.services - INFO - Login successful for user 1
+2025-05-02 20:34:10,860 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFEwTlRBc0ltNWlaaUk2TVRjME5qSXhOemczTUN3aWFXRjBJam94TnpRMk1qRTNPRGN3TENKcWRHa2lPaUl5TjJZMlltWmtaUzFpTldOakxUUm1ZVEF0T1RkaU9DMHpPREJsTVRrellqbGpNbVFpTENKVWIydGxiaUk2SWlKOS5HQmc2M3A0WGtYUzlwUzlJTnprcUV6b0JKLUxQVVY5QnU1cThGS0s2U0hndmJ4bzJBWVo5eXVHYjlMNkQtdUpDblRmUGcwMTdEQnp2YW9vTzkxblUzM19jS3FLWms2MERoOUNhZUNyYV9SdUdRal9DR0xmQ0twaXdLc0V2MkJPTEo2djE4bjk4RmpyMEYtb0E2SjkwRjItYm05MHR1ejNrdFQwcmlXUklPdlkiLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTgwNTAsImV4cCI6MTc0NjMwNDQ1MH0.ot6U0nuizAV70SOYh2jxYvckAShw1DKmg36-jW8Gjb8UjM1Vl0zZHny3dEphuUncziZNngJ5y1GARTgpet__1A",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFEwTlRBc0ltNWlaaUk2TVRjME5qSXhOemczTUN3aWFXRjBJam94TnpRMk1qRTNPRGN3TENKcWRHa2lPaUl4TWpnek5UUTFNaTB3WWpKaExUUXdNRGd0T0RReVpDMDRaVEZtTXpNeVltRmtNMkVpTENKVWIydGxiaUk2SWlKOS55bWlwVjk2eVVoUHRJSC1yUnJZYTB0a1ZKc0dXNXhDSUJZUGlQbTlOYlBnQUhMVkJFX1NOa0tqUGRETEV3SWhDTzlPZnlVb0JoUmxoNk1Mc250MW5ZSFFEUDBnRjhGaDdQYjl6RXFQZUtMVkVGenlmQzNVamVBZklBY2tGZmpMT1RUODdGWDlfUnZzMVZTM0lhNFp4NFdrbUtZVWVfeWJyYUNFdmRFcFB4NTQiLCJpYXQiOjE3NDYyMTgwNTB9.PyHiK7k-XVgu7TpuCnbPMHvygv6sCNNx1123GGra0EzI7YPtoXLUTG6lHCrxXcJ_I6CCURyywpH3_ez2hC4GcA",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTgwNTAsImV4cCI6MTc0NjMwNDQ1MH0.UQtv3sjmdjVS5VlW1aBoSOK8zMokMtUddzKSvDfm0VcGyCOocuRqtHVcMkeIllJiw5_dCNwOd07NEFoczYU-HA"
+  }
+}
+2025-05-02 20:34:10,861 - utils.api_connector - WARNING - Could not get user profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:34:10,861 - utils.api_connector - INFO - Login successful for client ID: P819276
+2025-05-02 20:34:10,984 - utils.services - INFO - Database initialized
+2025-05-02 20:34:10,985 - utils.services - INFO - Database initialized
+2025-05-02 20:34:10,985 - utils.services - INFO - API instance initialized
+2025-05-02 20:34:10,985 - utils.services - INFO - Services initialized
+2025-05-02 20:34:10,986 - utils.services - INFO - System initialized successfully
+2025-05-02 20:34:50,556 - utils.services - INFO - Database initialized
+2025-05-02 20:34:50,557 - utils.services - INFO - Database initialized
+2025-05-02 20:34:50,557 - utils.services - INFO - API instance initialized
+2025-05-02 20:34:50,557 - utils.services - INFO - Services initialized
+2025-05-02 20:34:50,558 - utils.services - INFO - System initialized successfully
+2025-05-02 20:34:50,576 - utils.api_connector - ERROR - Error in get_profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:35:03,808 - utils.services - INFO - Database initialized
+2025-05-02 20:35:03,809 - utils.services - INFO - Database initialized
+2025-05-02 20:35:03,811 - utils.services - INFO - API instance initialized
+2025-05-02 20:35:03,811 - utils.services - INFO - Services initialized
+2025-05-02 20:35:03,811 - utils.services - INFO - System initialized successfully
+2025-05-02 20:35:04,592 - utils.api_extended - INFO - Saved funds to database
+2025-05-02 20:35:15,130 - utils.services - INFO - Database initialized
+2025-05-02 20:35:15,132 - utils.services - INFO - Database initialized
+2025-05-02 20:35:15,132 - utils.services - INFO - API instance initialized
+2025-05-02 20:35:15,132 - utils.services - INFO - Services initialized
+2025-05-02 20:35:15,133 - utils.services - INFO - System initialized successfully
+2025-05-02 20:37:40,127 - utils.services - INFO - Database initialized
+2025-05-02 20:37:40,128 - utils.services - INFO - Database initialized
+2025-05-02 20:37:40,128 - utils.services - INFO - API instance initialized
+2025-05-02 20:37:40,128 - utils.services - INFO - Services initialized
+2025-05-02 20:37:40,129 - utils.services - INFO - System initialized successfully
+2025-05-02 20:37:40,135 - utils.api_connector - ERROR - Error in get_profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:37:40,848 - utils.api_extended - INFO - Saved funds to database
+2025-05-02 20:37:40,849 - __main__ - ERROR - Error refreshing user data
+Traceback (most recent call last):
+  File "/home/runner/workspace/app_updated.py", line 458, in refresh_user_data
+    holdings_response = st.session_state.extended_api.get_holdings(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/utils/api_extended.py", line 159, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AngelOneAPI.get_holdings() got an unexpected keyword argument 'user_id'
+2025-05-02 20:39:17,789 - utils.services - INFO - Database initialized
+2025-05-02 20:39:17,791 - utils.services - INFO - Database initialized
+2025-05-02 20:39:17,791 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:17,792 - utils.services - INFO - Services initialized
+2025-05-02 20:39:17,792 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:19,798 - utils.services - INFO - Database initialized
+2025-05-02 20:39:19,799 - utils.services - INFO - Database initialized
+2025-05-02 20:39:19,800 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:19,800 - utils.services - INFO - Services initialized
+2025-05-02 20:39:19,800 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:30,012 - utils.services - INFO - Database initialized
+2025-05-02 20:39:30,013 - utils.services - INFO - Database initialized
+2025-05-02 20:39:30,013 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:30,013 - utils.services - INFO - Services initialized
+2025-05-02 20:39:30,013 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:37,734 - utils.services - INFO - Database initialized
+2025-05-02 20:39:37,736 - utils.services - INFO - Database initialized
+2025-05-02 20:39:37,736 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:37,736 - utils.services - INFO - Services initialized
+2025-05-02 20:39:37,737 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:37,946 - utils.services - INFO - Database initialized
+2025-05-02 20:39:37,948 - utils.services - INFO - Database initialized
+2025-05-02 20:39:37,949 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:37,949 - utils.services - INFO - Services initialized
+2025-05-02 20:39:37,949 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:46,961 - utils.services - INFO - Database initialized
+2025-05-02 20:39:46,962 - utils.services - INFO - Database initialized
+2025-05-02 20:39:46,962 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:46,963 - utils.services - INFO - Services initialized
+2025-05-02 20:39:46,963 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:47,189 - utils.services - INFO - Database initialized
+2025-05-02 20:39:47,190 - utils.services - INFO - Database initialized
+2025-05-02 20:39:47,191 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:47,191 - utils.services - INFO - Services initialized
+2025-05-02 20:39:47,191 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:59,436 - utils.services - INFO - Database initialized
+2025-05-02 20:39:59,436 - utils.services - INFO - Database initialized
+2025-05-02 20:39:59,436 - utils.services - INFO - API instance initialized
+2025-05-02 20:39:59,437 - utils.services - INFO - Services initialized
+2025-05-02 20:39:59,437 - utils.services - INFO - System initialized successfully
+2025-05-02 20:39:59,472 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:40:03,819 - utils.instrument_master - WARNING - Instrument cache file not found
+2025-05-02 20:40:03,819 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:40:10,599 - utils.instrument_master - INFO - Saved 119566 instruments to cache
+2025-05-02 20:40:10,599 - utils.instrument_master - INFO - Fetched 119566 instruments from API
+2025-05-02 20:40:13,131 - utils.instrument_master - INFO - Saved 119566 instruments to database
+2025-05-02 20:40:13,153 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:40:20,697 - utils.instrument_master - INFO - Saved 119566 instruments to cache
+2025-05-02 20:40:20,698 - utils.instrument_master - INFO - Fetched 119566 instruments from API
+2025-05-02 20:40:20,705 - utils.instrument_master - INFO - Saved 119566 instruments to database
+2025-05-02 20:40:20,750 - utils.instrument_master - INFO - Saved 124156 instruments to database
+2025-05-02 20:40:25,713 - utils.services - INFO - Database initialized
+2025-05-02 20:40:25,714 - utils.services - INFO - Database initialized
+2025-05-02 20:40:25,714 - utils.services - INFO - API instance initialized
+2025-05-02 20:40:25,714 - utils.services - INFO - Services initialized
+2025-05-02 20:40:25,714 - utils.services - INFO - System initialized successfully
+2025-05-02 20:40:32,510 - utils.services - INFO - Database initialized
+2025-05-02 20:40:32,512 - utils.services - INFO - Database initialized
+2025-05-02 20:40:32,512 - utils.services - INFO - API instance initialized
+2025-05-02 20:40:32,512 - utils.services - INFO - Services initialized
+2025-05-02 20:40:32,512 - utils.services - INFO - System initialized successfully
+2025-05-02 20:40:32,545 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:40:36,987 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:40:48,110 - utils.instrument_master - INFO - Saved 119566 instruments to cache
+2025-05-02 20:40:48,112 - utils.instrument_master - INFO - Fetched 119566 instruments from API
+2025-05-02 20:40:48,120 - utils.instrument_master - INFO - Saved 119566 instruments to database
+2025-05-02 20:40:48,200 - utils.instrument_master - INFO - Saved 124156 instruments to database
+2025-05-02 20:41:07,729 - utils.services - INFO - Database initialized
+2025-05-02 20:41:07,730 - utils.services - INFO - Database initialized
+2025-05-02 20:41:07,730 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:07,730 - utils.services - INFO - Services initialized
+2025-05-02 20:41:07,730 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:22,790 - utils.services - INFO - Database initialized
+2025-05-02 20:41:22,791 - utils.services - INFO - Database initialized
+2025-05-02 20:41:22,791 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:22,792 - utils.services - INFO - Services initialized
+2025-05-02 20:41:22,792 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:22,963 - utils.services - INFO - Database initialized
+2025-05-02 20:41:22,966 - utils.services - INFO - Database initialized
+2025-05-02 20:41:22,967 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:22,967 - utils.services - INFO - Services initialized
+2025-05-02 20:41:22,967 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:43,316 - utils.services - INFO - Database initialized
+2025-05-02 20:41:43,318 - utils.services - INFO - Database initialized
+2025-05-02 20:41:43,319 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:43,319 - utils.services - INFO - Services initialized
+2025-05-02 20:41:43,319 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:43,542 - utils.services - INFO - Database initialized
+2025-05-02 20:41:43,544 - utils.services - INFO - Database initialized
+2025-05-02 20:41:43,544 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:43,545 - utils.services - INFO - Services initialized
+2025-05-02 20:41:43,545 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:57,389 - utils.services - INFO - Database initialized
+2025-05-02 20:41:57,390 - utils.services - INFO - Database initialized
+2025-05-02 20:41:57,391 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:57,391 - utils.services - INFO - Services initialized
+2025-05-02 20:41:57,392 - utils.services - INFO - System initialized successfully
+2025-05-02 20:41:57,610 - utils.services - INFO - Database initialized
+2025-05-02 20:41:57,611 - utils.services - INFO - Database initialized
+2025-05-02 20:41:57,611 - utils.services - INFO - API instance initialized
+2025-05-02 20:41:57,611 - utils.services - INFO - Services initialized
+2025-05-02 20:41:57,611 - utils.services - INFO - System initialized successfully
+2025-05-02 20:42:05,397 - utils.services - INFO - Database initialized
+2025-05-02 20:42:05,398 - utils.services - INFO - Database initialized
+2025-05-02 20:42:05,398 - utils.services - INFO - API instance initialized
+2025-05-02 20:42:05,399 - utils.services - INFO - Services initialized
+2025-05-02 20:42:05,399 - utils.services - INFO - System initialized successfully
+2025-05-02 20:42:05,526 - utils.services - INFO - Database initialized
+2025-05-02 20:42:05,528 - utils.services - INFO - Database initialized
+2025-05-02 20:42:05,529 - utils.services - INFO - API instance initialized
+2025-05-02 20:42:05,529 - utils.services - INFO - Services initialized
+2025-05-02 20:42:05,531 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:40,389 - utils.services - INFO - Database initialized
+2025-05-02 20:43:40,391 - utils.services - INFO - Database initialized
+2025-05-02 20:43:40,391 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:40,391 - utils.services - INFO - Services initialized
+2025-05-02 20:43:40,391 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:40,612 - utils.services - INFO - Database initialized
+2025-05-02 20:43:40,613 - utils.services - INFO - Database initialized
+2025-05-02 20:43:40,613 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:40,613 - utils.services - INFO - Services initialized
+2025-05-02 20:43:40,613 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:44,762 - utils.services - INFO - Database initialized
+2025-05-02 20:43:44,764 - utils.services - INFO - Database initialized
+2025-05-02 20:43:44,764 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:44,764 - utils.services - INFO - Services initialized
+2025-05-02 20:43:44,764 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:49,324 - utils.services - INFO - Database initialized
+2025-05-02 20:43:49,325 - utils.services - INFO - Database initialized
+2025-05-02 20:43:49,325 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:49,325 - utils.services - INFO - Services initialized
+2025-05-02 20:43:49,325 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:50,545 - utils.services - INFO - Database initialized
+2025-05-02 20:43:50,546 - utils.services - INFO - Database initialized
+2025-05-02 20:43:50,546 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:50,546 - utils.services - INFO - Services initialized
+2025-05-02 20:43:50,546 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:56,051 - utils.services - INFO - Database initialized
+2025-05-02 20:43:56,053 - utils.services - INFO - Database initialized
+2025-05-02 20:43:56,053 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:56,054 - utils.services - INFO - Services initialized
+2025-05-02 20:43:56,054 - utils.services - INFO - System initialized successfully
+2025-05-02 20:43:59,538 - utils.services - INFO - Database initialized
+2025-05-02 20:43:59,539 - utils.services - INFO - Database initialized
+2025-05-02 20:43:59,540 - utils.services - INFO - API instance initialized
+2025-05-02 20:43:59,541 - utils.services - INFO - Services initialized
+2025-05-02 20:43:59,541 - utils.services - INFO - System initialized successfully
+2025-05-02 20:44:01,392 - utils.services - INFO - Database initialized
+2025-05-02 20:44:01,393 - utils.services - INFO - Database initialized
+2025-05-02 20:44:01,393 - utils.services - INFO - API instance initialized
+2025-05-02 20:44:01,393 - utils.services - INFO - Services initialized
+2025-05-02 20:44:01,393 - utils.services - INFO - System initialized successfully
+2025-05-02 20:44:12,167 - utils.services - INFO - Database initialized
+2025-05-02 20:44:12,168 - utils.services - INFO - Database initialized
+2025-05-02 20:44:12,169 - utils.services - INFO - API instance initialized
+2025-05-02 20:44:12,169 - utils.services - INFO - Services initialized
+2025-05-02 20:44:12,169 - utils.services - INFO - System initialized successfully
+2025-05-02 20:44:12,199 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:44:16,626 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:44:23,182 - utils.instrument_master - INFO - Saved 119566 instruments to cache
+2025-05-02 20:44:23,183 - utils.instrument_master - INFO - Fetched 119566 instruments from API
+2025-05-02 20:44:23,185 - utils.instrument_master - INFO - Saved 119566 instruments to database
+2025-05-02 20:44:23,217 - utils.instrument_master - INFO - Saved 124156 instruments to database
+2025-05-02 20:44:43,668 - utils.services - INFO - Database initialized
+2025-05-02 20:44:43,669 - utils.services - INFO - Database initialized
+2025-05-02 20:44:43,669 - utils.services - INFO - API instance initialized
+2025-05-02 20:44:43,669 - utils.services - INFO - Services initialized
+2025-05-02 20:44:43,669 - utils.services - INFO - System initialized successfully
+2025-05-02 20:44:43,676 - utils.api_connector - ERROR - Error in get_profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:44:44,429 - utils.api_extended - INFO - Saved funds to database
+2025-05-02 20:44:44,430 - __main__ - ERROR - Error refreshing user data
+Traceback (most recent call last):
+  File "/home/runner/workspace/app_updated.py", line 458, in refresh_user_data
+    holdings_response = st.session_state.extended_api.get_holdings(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/utils/api_extended.py", line 159, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AngelOneAPI.get_holdings() got an unexpected keyword argument 'user_id'
+2025-05-02 20:45:17,645 - utils.services - INFO - Database initialized
+2025-05-02 20:45:17,646 - utils.services - INFO - Database initialized
+2025-05-02 20:45:17,647 - utils.services - INFO - API instance initialized
+2025-05-02 20:45:17,647 - utils.services - INFO - Services initialized
+2025-05-02 20:45:17,647 - utils.services - INFO - System initialized successfully
+2025-05-02 20:45:17,878 - utils.services - INFO - Database initialized
+2025-05-02 20:45:17,879 - utils.services - INFO - Database initialized
+2025-05-02 20:45:17,879 - utils.services - INFO - API instance initialized
+2025-05-02 20:45:17,881 - utils.services - INFO - Services initialized
+2025-05-02 20:45:17,881 - utils.services - INFO - System initialized successfully
+2025-05-02 20:45:43,822 - utils.services - INFO - Database initialized
+2025-05-02 20:45:43,823 - utils.services - INFO - Database initialized
+2025-05-02 20:45:43,823 - utils.services - INFO - API instance initialized
+2025-05-02 20:45:43,823 - utils.services - INFO - Services initialized
+2025-05-02 20:45:43,824 - utils.services - INFO - System initialized successfully
+2025-05-02 20:45:44,030 - utils.services - INFO - Database initialized
+2025-05-02 20:45:44,031 - utils.services - INFO - Database initialized
+2025-05-02 20:45:44,032 - utils.services - INFO - API instance initialized
+2025-05-02 20:45:44,032 - utils.services - INFO - Services initialized
+2025-05-02 20:45:44,033 - utils.services - INFO - System initialized successfully
+2025-05-02 20:46:08,661 - utils.services - INFO - Database initialized
+2025-05-02 20:46:08,662 - utils.services - INFO - Database initialized
+2025-05-02 20:46:08,663 - utils.services - INFO - API instance initialized
+2025-05-02 20:46:08,663 - utils.services - INFO - Services initialized
+2025-05-02 20:46:08,663 - utils.services - INFO - System initialized successfully
+2025-05-02 20:46:08,880 - utils.services - INFO - Database initialized
+2025-05-02 20:46:08,882 - utils.services - INFO - Database initialized
+2025-05-02 20:46:08,882 - utils.services - INFO - API instance initialized
+2025-05-02 20:46:08,882 - utils.services - INFO - Services initialized
+2025-05-02 20:46:08,883 - utils.services - INFO - System initialized successfully
+2025-05-02 20:46:23,971 - utils.services - INFO - Database initialized
+2025-05-02 20:46:23,973 - utils.services - INFO - Database initialized
+2025-05-02 20:46:23,973 - utils.services - INFO - API instance initialized
+2025-05-02 20:46:23,973 - utils.services - INFO - Services initialized
+2025-05-02 20:46:23,973 - utils.services - INFO - System initialized successfully
+2025-05-02 20:46:24,196 - utils.services - INFO - Database initialized
+2025-05-02 20:46:24,197 - utils.services - INFO - Database initialized
+2025-05-02 20:46:24,198 - utils.services - INFO - API instance initialized
+2025-05-02 20:46:24,198 - utils.services - INFO - Services initialized
+2025-05-02 20:46:24,199 - utils.services - INFO - System initialized successfully
+2025-05-02 20:46:40,577 - utils.services - INFO - Database initialized
+2025-05-02 20:46:40,578 - utils.services - INFO - Database initialized
+2025-05-02 20:46:40,579 - utils.services - INFO - API instance initialized
+2025-05-02 20:46:40,579 - utils.services - INFO - Services initialized
+2025-05-02 20:46:40,580 - utils.services - INFO - System initialized successfully
+2025-05-02 20:47:04,560 - utils.services - INFO - Database initialized
+2025-05-02 20:47:04,561 - utils.services - INFO - Database initialized
+2025-05-02 20:47:04,561 - utils.services - INFO - API instance initialized
+2025-05-02 20:47:04,561 - utils.services - INFO - Services initialized
+2025-05-02 20:47:04,562 - utils.services - INFO - System initialized successfully
+2025-05-02 20:47:04,577 - utils.services - INFO - Fetching stock data from API for token 11840
+2025-05-02 20:47:04,578 - utils.api_connector - ERROR - Instrument token not found for symbol: 11840
+2025-05-02 20:47:23,847 - utils.services - INFO - Database initialized
+2025-05-02 20:47:23,849 - utils.services - INFO - Database initialized
+2025-05-02 20:47:23,849 - utils.services - INFO - API instance initialized
+2025-05-02 20:47:23,849 - utils.services - INFO - Services initialized
+2025-05-02 20:47:23,849 - utils.services - INFO - System initialized successfully
+2025-05-02 20:47:23,866 - utils.services - INFO - Fetching stock data from API for token 11840
+2025-05-02 20:47:23,867 - utils.api_connector - ERROR - Instrument token not found for symbol: 11840
+2025-05-02 20:47:58,700 - utils.services - INFO - Database initialized
+2025-05-02 20:47:58,701 - utils.services - INFO - Database initialized
+2025-05-02 20:47:58,702 - utils.services - INFO - API instance initialized
+2025-05-02 20:47:58,702 - utils.services - INFO - Services initialized
+2025-05-02 20:47:58,702 - utils.services - INFO - System initialized successfully
+2025-05-02 20:47:58,718 - utils.services - INFO - Fetching stock data from API for token 11840
+2025-05-02 20:47:58,720 - utils.api_connector - ERROR - Instrument token not found for symbol: 11840
+2025-05-02 20:52:38,344 - utils.services - INFO - Database initialized
+2025-05-02 20:52:38,345 - utils.services - INFO - Database initialized
+2025-05-02 20:52:38,346 - utils.services - INFO - Scheduler started
+2025-05-02 20:52:38,346 - utils.services - INFO - API instance initialized
+2025-05-02 20:52:38,346 - utils.services - INFO - Services initialized
+2025-05-02 20:52:38,347 - utils.services - INFO - System initialized successfully
+2025-05-02 20:54:03,946 - utils.services - INFO - Database initialized
+2025-05-02 20:54:03,947 - utils.services - INFO - Database initialized
+2025-05-02 20:54:03,948 - utils.services - INFO - Scheduler started
+2025-05-02 20:54:03,949 - utils.services - INFO - API instance initialized
+2025-05-02 20:54:03,950 - utils.services - INFO - Services initialized
+2025-05-02 20:54:03,950 - utils.services - INFO - System initialized successfully
+2025-05-02 20:56:10,214 - utils.services - INFO - Database initialized
+2025-05-02 20:56:10,217 - utils.services - INFO - Database initialized
+2025-05-02 20:56:10,218 - utils.services - INFO - Scheduler started
+2025-05-02 20:56:10,219 - utils.services - INFO - API instance initialized
+2025-05-02 20:56:10,219 - utils.services - INFO - Services initialized
+2025-05-02 20:56:10,219 - utils.services - INFO - System initialized successfully
+2025-05-02 20:56:11,276 - utils.services - INFO - Database initialized
+2025-05-02 20:56:11,278 - utils.services - INFO - Database initialized
+2025-05-02 20:56:11,278 - utils.services - INFO - API instance initialized
+2025-05-02 20:56:11,278 - utils.services - INFO - Services initialized
+2025-05-02 20:56:11,281 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:04,328 - utils.services - INFO - Database initialized
+2025-05-02 20:57:04,329 - utils.services - INFO - Database initialized
+2025-05-02 20:57:04,329 - utils.services - INFO - API instance initialized
+2025-05-02 20:57:04,329 - utils.services - INFO - Services initialized
+2025-05-02 20:57:04,329 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:04,687 - utils.services - INFO - User authenticated successfully: imrockr11
+2025-05-02 20:57:06,300 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFU0TWpVc0ltNWlaaUk2TVRjME5qSXhPVEkwTlN3aWFXRjBJam94TnpRMk1qRTVNalExTENKcWRHa2lPaUprT1RkaE4yRTNNaTAzTVdVM0xUUmpZamt0T1RRMk5pMWtNamRqTlRjMVpXWmhZelFpTENKVWIydGxiaUk2SWlKOS5XZFhuLUN1UGZ2U1RqUE9SUXZJRVVwYXlfeC1iY1d1alVWQVBfMnBYaDhEX3N2YlBTM01DSFFPNG9oQjFJNHhZQjdmOTNUUFhWU0J6LXlqRUZNYVluaUFtU1BMZFBvUEt2RHdSb3dpT1pSWWZubC1qTERBejVXSERmRmRMZHRyM0FuaXlZN1QtekttYzhPQnVWb1cxTmFQSEtJNkowN21ENWVkOGhiNEFKQ2siLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTk0MjUsImV4cCI6MTc0NjMwNTgyNX0.DK3tcEawVuamT5lLbnO7yAGSMZf_7i82II5plTGYJxwdXUyS2uHYm8hY3QT9-f9jhuvEtCTl5ZZyU6K-p3QICQ",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFU0TWpVc0ltNWlaaUk2TVRjME5qSXhPVEkwTlN3aWFXRjBJam94TnpRMk1qRTVNalExTENKcWRHa2lPaUl3TVRnME5UY3hPQzB3WmpVNUxUUmxOMkV0T0Rrek5DMWhZVFUyWVdFM05tUXpaVFFpTENKVWIydGxiaUk2SWlKOS5ITlVlVThCWkZXY1RBZ1dLUUpMUFp1d0RxWFVCQzdEc1oydlB6NkhuQUgwaXkwNUFnMWdMUDRjNnlRM3dkdUlWTEl4M0NwWXphTFlwcGU2eEZaNVhrWTExelk2aUppN1BGam5YMlc1ZmlqNjE4aDNUdDcyYV81ZHppU2lHQWZMUmhmVUVXTV9KLWwybURCc0RyekstdDdVYXdaSkstZUtVUU8xY2VnRU9GVW8iLCJpYXQiOjE3NDYyMTk0MjV9.dO4CVWyCN-OTnG-wSf_1hvhnrmsvivgXkZS2JJJ7GFfn-VIyat3SkpTWwhbcqSX4ONblTgbkdGVVqdbQdnrx5A",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTk0MjUsImV4cCI6MTc0NjMwNTgyNX0.jApjUlcGTPfTbU2E-P-jckknr6HTokdG-TYXzp857Y5kEdDagYyXnTRjNp9GflDweOTVZXvtk5TVgTnaEtf90w"
+  }
+}
+2025-05-02 20:57:06,301 - utils.api_connector - WARNING - Could not get user profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:57:06,302 - utils.api_connector - INFO - Login successful for client ID: P819276
+2025-05-02 20:57:06,302 - utils.services - INFO - Login successful for user 1
+2025-05-02 20:57:07,852 - utils.api_connector - INFO - Login response: {
+  "status": true,
+  "message": "SUCCESS",
+  "errorcode": "",
+  "data": {
+    "clientcode": "P819276",
+    "name": "PIYUSH DALJIBHAI  PATEL",
+    "email": "",
+    "mobileno": "",
+    "exchanges": [
+      "nse_fo",
+      "nse_cm",
+      "cde_fo",
+      "ncx_fo",
+      "bse_fo",
+      "bse_cm",
+      "mcx_fo"
+    ],
+    "products": [
+      "MARGIN",
+      "MIS",
+      "NRML",
+      "CNC",
+      "CO",
+      "BO"
+    ],
+    "lastlogintime": "",
+    "broker": "",
+    "jwtToken": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFd01pd2ljMjkxY21ObElqb2lNeUlzSW1SbGRtbGpaVjlwWkNJNklqY3lNemRpTXpCaUxUa3pOVFl0TXpjMFpDMWlNelEwTFdVNVpXSmlOVEE1TVdRek9TSXNJbXRwWkNJNkluUnlZV1JsWDJ0bGVWOTJNaUlzSW05dGJtVnRZVzVoWjJWeWFXUWlPakV3TWl3aWNISnZaSFZqZEhNaU9uc2laR1Z0WVhRaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMHNJbTFtSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFU0TWpZc0ltNWlaaUk2TVRjME5qSXhPVEkwTml3aWFXRjBJam94TnpRMk1qRTVNalEyTENKcWRHa2lPaUkxTnpFMk5qYzJNQzFoWkRBM0xUUTNPR010WWpRd1pTMDRNRFl5T1Rrek4yRXpZallpTENKVWIydGxiaUk2SWlKOS5nb1VKVncycG5QQWZWS0xuMXZWM3ViM3dxNmRoU1NzX0s0NUxWUHJlSWR0LWxhQi0zSFFwdDg5UkFsS3dyUlRfajFfbVZpVEljQ1dSQ3YtQkRNbWw0ejg5WkF1U2J1aWM1T0ktTktsQnhJMjRWU3pIZXJKdnR6US1RUFZoTUVHVVh5STNFR1JYTkc3cUlzVzk0QTREdW52TUxOT3VtYm1kNG41Smd1TU9ZQTgiLCJBUEktS0VZIjoiZ3pzbWFpUVkiLCJpYXQiOjE3NDYyMTk0MjYsImV4cCI6MTc0NjMwNTgyNn0.ynvifIHUtc_eZAipTVkovH4WknyCK-t7F0gdhASTpXo3lP__P88L-JYQyG6hbK3JyKnzIfruBV76ylTJbqC43A",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6IlJFRlJFU0gtVE9LRU4iLCJSRUZSRVNILVRPS0VOIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDNSNWNHVWlPaUpqYkdsbGJuUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaWRISmhaR1ZmY21WbWNtVnphRjkwYjJ0bGJpSXNJbWR0WDJsa0lqb3dMQ0p6YjNWeVkyVWlPaUl6SWl3aVpHVjJhV05sWDJsa0lqb2lOekl6TjJJek1HSXRPVE0xTmkwek56UmtMV0l6TkRRdFpUbGxZbUkxTURreFpETTVJaXdpYTJsa0lqb2lkSEpoWkdWZmEyVjVYM1l5SWl3aWIyMXVaVzFoYm1GblpYSnBaQ0k2TUN3aWFYTnpJam9pYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsQTRNVGt5TnpZaUxDSmxlSEFpT2pFM05EWXpNRFU0TWpZc0ltNWlaaUk2TVRjME5qSXhPVEkwTml3aWFXRjBJam94TnpRMk1qRTVNalEyTENKcWRHa2lPaUl6T1dGaE5tSXpOaTB4TWpjNUxUUmpNek10T1RrNVlTMWtPVFprTkRJMk1EUmpZVGdpTENKVWIydGxiaUk2SWlKOS5MNEg4bUNIdUMzQkxrYXJzNXJxUjNCODUzeFNmUmt3UDZQVlY0cTA3U25XMXliUDN5QmlHQW1iaV94VlhwcFhXdTJNQVlFUUlWR2JxLVpxSVNCTld6WGJPc2F4M2E1T0piM1Uxb2c2QXRpYWR5clZsOWtjeU45UWdVTmRYOHVXbEk0cFFEdzZ1VkVEemlQY2RHVFpKWkxOODZTMHJlR2lHV0FYTk53TUZMVmMiLCJpYXQiOjE3NDYyMTk0MjZ9.rGZGcQyPd4LJSD_V4GleGpxBOXurv9E3uUbhbcnN0v8tbtuaYTZJOtLx3Ol5I6g-biGEKG4HYRpsXfLMiW_TSQ",
+    "feedToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlA4MTkyNzYiLCJpYXQiOjE3NDYyMTk0MjYsImV4cCI6MTc0NjMwNTgyNn0.MUlyefDisorQdjy1N4p-TwIMyvIbscQ4taha-f1kN0cpiPhpEyh2drfLBA4B1R1-xIWGWZbBl_gy-lpw952ykw"
+  }
+}
+2025-05-02 20:57:07,853 - utils.api_connector - WARNING - Could not get user profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:57:07,853 - utils.api_connector - INFO - Login successful for client ID: P819276
+2025-05-02 20:57:07,965 - utils.services - INFO - Database initialized
+2025-05-02 20:57:07,967 - utils.services - INFO - Database initialized
+2025-05-02 20:57:07,968 - utils.services - INFO - API instance initialized
+2025-05-02 20:57:07,969 - utils.services - INFO - Services initialized
+2025-05-02 20:57:07,970 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:28,911 - utils.services - INFO - Database initialized
+2025-05-02 20:57:28,912 - utils.services - INFO - Database initialized
+2025-05-02 20:57:28,912 - utils.services - INFO - API instance initialized
+2025-05-02 20:57:28,912 - utils.services - INFO - Services initialized
+2025-05-02 20:57:28,912 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:29,138 - utils.services - INFO - Database initialized
+2025-05-02 20:57:29,140 - utils.services - INFO - Database initialized
+2025-05-02 20:57:29,140 - utils.services - INFO - API instance initialized
+2025-05-02 20:57:29,140 - utils.services - INFO - Services initialized
+2025-05-02 20:57:29,140 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:45,524 - utils.services - INFO - Database initialized
+2025-05-02 20:57:45,525 - utils.services - INFO - Database initialized
+2025-05-02 20:57:45,526 - utils.services - INFO - API instance initialized
+2025-05-02 20:57:45,526 - utils.services - INFO - Services initialized
+2025-05-02 20:57:45,526 - utils.services - INFO - System initialized successfully
+2025-05-02 20:57:45,552 - utils.api_connector - ERROR - Error in get_profile: SmartConnect.getProfile() missing 1 required positional argument: 'refreshToken'
+2025-05-02 20:58:04,554 - utils.services - INFO - Database initialized
+2025-05-02 20:58:04,555 - utils.services - INFO - Database initialized
+2025-05-02 20:58:04,555 - utils.services - INFO - API instance initialized
+2025-05-02 20:58:04,555 - utils.services - INFO - Services initialized
+2025-05-02 20:58:04,556 - utils.services - INFO - System initialized successfully
+2025-05-02 20:58:05,347 - utils.api_extended - INFO - Saved funds to database
+2025-05-02 20:58:09,924 - utils.services - INFO - Database initialized
+2025-05-02 20:58:09,925 - utils.services - INFO - Database initialized
+2025-05-02 20:58:09,925 - utils.services - INFO - API instance initialized
+2025-05-02 20:58:09,925 - utils.services - INFO - Services initialized
+2025-05-02 20:58:09,925 - utils.services - INFO - System initialized successfully
+2025-05-02 20:58:17,345 - utils.services - INFO - Database initialized
+2025-05-02 20:58:17,348 - utils.services - INFO - Database initialized
+2025-05-02 20:58:17,349 - utils.services - INFO - API instance initialized
+2025-05-02 20:58:17,356 - utils.services - INFO - Services initialized
+2025-05-02 20:58:17,357 - utils.services - INFO - System initialized successfully
+2025-05-02 20:58:17,401 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:58:22,210 - utils.instrument_master - INFO - Loaded 119566 instruments from cache
+2025-05-02 20:58:22,211 - utils.instrument_master - INFO - Fetching instrument master from API...
+2025-05-02 20:58:29,063 - utils.instrument_master - INFO - Saved 119566 instruments to cache
+2025-05-02 20:58:29,064 - utils.instrument_master - INFO - Fetched 119566 instruments from API
+2025-05-02 20:58:29,068 - utils.instrument_master - INFO - Saved 119566 instruments to database
+2025-05-02 20:58:29,097 - utils.instrument_master - INFO - Saved 124156 instruments to database
+2025-05-02 20:58:50,751 - utils.services - INFO - Database initialized
+2025-05-02 20:58:50,753 - utils.services - INFO - Database initialized
+2025-05-02 20:58:50,754 - utils.services - INFO - API instance initialized
+2025-05-02 20:58:50,754 - utils.services - INFO - Services initialized
+2025-05-02 20:58:50,754 - utils.services - INFO - System initialized successfully
+2025-05-02 20:58:50,953 - utils.services - INFO - Database initialized
+2025-05-02 20:58:50,956 - utils.services - INFO - Database initialized
+2025-05-02 20:58:50,958 - utils.services - INFO - API instance initialized
+2025-05-02 20:58:50,959 - utils.services - INFO - Services initialized
+2025-05-02 20:58:50,959 - utils.services - INFO - System initialized successfully
+2025-05-02 20:59:02,038 - utils.services - INFO - Database initialized
+2025-05-02 20:59:02,039 - utils.services - INFO - Database initialized
+2025-05-02 20:59:02,040 - utils.services - INFO - API instance initialized
+2025-05-02 20:59:02,040 - utils.services - INFO - Services initialized
+2025-05-02 20:59:02,040 - utils.services - INFO - System initialized successfully
+2025-05-02 20:59:16,924 - utils.services - INFO - Database initialized
+2025-05-02 20:59:16,926 - utils.services - INFO - Database initialized
+2025-05-02 20:59:16,926 - utils.services - INFO - API instance initialized
+2025-05-02 20:59:16,926 - utils.services - INFO - Services initialized
+2025-05-02 20:59:16,926 - utils.services - INFO - System initialized successfully
+2025-05-02 20:59:17,099 - utils.services - INFO - Database initialized
+2025-05-02 20:59:17,102 - utils.services - INFO - Database initialized
+2025-05-02 20:59:17,102 - utils.services - INFO - API instance initialized
+2025-05-02 20:59:17,102 - utils.services - INFO - Services initialized
+2025-05-02 20:59:17,102 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:03,988 - utils.services - INFO - Database initialized
+2025-05-02 21:00:03,989 - utils.services - INFO - Database initialized
+2025-05-02 21:00:03,990 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:03,990 - utils.services - INFO - Services initialized
+2025-05-02 21:00:03,990 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:04,217 - utils.services - INFO - Database initialized
+2025-05-02 21:00:04,218 - utils.services - INFO - Database initialized
+2025-05-02 21:00:04,218 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:04,219 - utils.services - INFO - Services initialized
+2025-05-02 21:00:04,219 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:08,375 - utils.services - INFO - Database initialized
+2025-05-02 21:00:08,378 - utils.services - INFO - Database initialized
+2025-05-02 21:00:08,378 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:08,378 - utils.services - INFO - Services initialized
+2025-05-02 21:00:08,379 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:10,653 - utils.services - INFO - Database initialized
+2025-05-02 21:00:10,655 - utils.services - INFO - Database initialized
+2025-05-02 21:00:10,656 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:10,656 - utils.services - INFO - Services initialized
+2025-05-02 21:00:10,657 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:26,065 - utils.services - INFO - Database initialized
+2025-05-02 21:00:26,066 - utils.services - INFO - Database initialized
+2025-05-02 21:00:26,066 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:26,067 - utils.services - INFO - Services initialized
+2025-05-02 21:00:26,067 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:26,284 - utils.services - INFO - Database initialized
+2025-05-02 21:00:26,287 - utils.services - INFO - Database initialized
+2025-05-02 21:00:26,288 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:26,288 - utils.services - INFO - Services initialized
+2025-05-02 21:00:26,289 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:29,184 - utils.services - INFO - Database initialized
+2025-05-02 21:00:29,185 - utils.services - INFO - Database initialized
+2025-05-02 21:00:29,185 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:29,185 - utils.services - INFO - Services initialized
+2025-05-02 21:00:29,186 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:30,200 - utils.services - INFO - Database initialized
+2025-05-02 21:00:30,201 - utils.services - INFO - Database initialized
+2025-05-02 21:00:30,201 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:30,201 - utils.services - INFO - Services initialized
+2025-05-02 21:00:30,201 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:48,294 - utils.services - INFO - Database initialized
+2025-05-02 21:00:48,295 - utils.services - INFO - Database initialized
+2025-05-02 21:00:48,295 - utils.services - INFO - API instance initialized
+2025-05-02 21:00:48,295 - utils.services - INFO - Services initialized
+2025-05-02 21:00:48,296 - utils.services - INFO - System initialized successfully
+2025-05-02 21:00:48,326 - utils.services - INFO - Fetching stock data from API for token 500325
+2025-05-02 21:00:48,328 - utils.api_connector - ERROR - Instrument token not found for symbol: 500325
+2025-05-02 21:01:03,933 - utils.services - INFO - Database initialized
+2025-05-02 21:01:03,934 - utils.services - INFO - Database initialized
+2025-05-02 21:01:03,934 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:03,935 - utils.services - INFO - Services initialized
+2025-05-02 21:01:03,935 - utils.services - INFO - System initialized successfully
+2025-05-02 21:01:15,649 - utils.services - INFO - Database initialized
+2025-05-02 21:01:15,650 - utils.services - INFO - Database initialized
+2025-05-02 21:01:15,650 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:15,650 - utils.services - INFO - Services initialized
+2025-05-02 21:01:15,650 - utils.services - INFO - System initialized successfully
+2025-05-02 21:01:15,868 - utils.services - INFO - Database initialized
+2025-05-02 21:01:15,868 - utils.services - INFO - Database initialized
+2025-05-02 21:01:15,869 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:15,869 - utils.services - INFO - Services initialized
+2025-05-02 21:01:15,869 - utils.services - INFO - System initialized successfully
+2025-05-02 21:01:47,098 - utils.services - INFO - Database initialized
+2025-05-02 21:01:47,098 - utils.services - INFO - Database initialized
+2025-05-02 21:01:47,099 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:47,099 - utils.services - INFO - Services initialized
+2025-05-02 21:01:47,099 - utils.services - INFO - System initialized successfully
+2025-05-02 21:01:49,031 - utils.services - INFO - Database initialized
+2025-05-02 21:01:49,032 - utils.services - INFO - Database initialized
+2025-05-02 21:01:49,033 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:49,033 - utils.services - INFO - Services initialized
+2025-05-02 21:01:49,034 - utils.services - INFO - System initialized successfully
+2025-05-02 21:01:50,317 - utils.services - INFO - Database initialized
+2025-05-02 21:01:50,318 - utils.services - INFO - Database initialized
+2025-05-02 21:01:50,319 - utils.services - INFO - API instance initialized
+2025-05-02 21:01:50,319 - utils.services - INFO - Services initialized
+2025-05-02 21:01:50,319 - utils.services - INFO - System initialized successfully
+2025-05-02 21:02:03,771 - utils.services - INFO - Database initialized
+2025-05-02 21:02:03,772 - utils.services - INFO - Database initialized
+2025-05-02 21:02:03,772 - utils.services - INFO - API instance initialized
+2025-05-02 21:02:03,772 - utils.services - INFO - Services initialized
+2025-05-02 21:02:03,772 - utils.services - INFO - System initialized successfully
+2025-05-02 21:02:03,791 - utils.services - INFO - Fetching stock data from API for token 3411
+2025-05-02 21:02:03,794 - utils.api_connector - ERROR - Instrument token not found for symbol: 3411
+2025-05-02 21:02:14,555 - utils.services - INFO - Database initialized
+2025-05-02 21:02:14,556 - utils.services - INFO - Database initialized
+2025-05-02 21:02:14,556 - utils.services - INFO - API instance initialized
+2025-05-02 21:02:14,557 - utils.services - INFO - Services initialized
+2025-05-02 21:02:14,557 - utils.services - INFO - System initialized successfully
+2025-05-02 21:02:14,578 - utils.services - INFO - Fetching stock data from API for token 3411
+2025-05-02 21:02:14,579 - utils.api_connector - ERROR - Instrument token not found for symbol: 3411

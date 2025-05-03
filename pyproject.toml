@@ -1,0 +1,25 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "logzero>=1.7.0",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "prophet>=1.1.6",
+    "pyotp>=2.9.0",
+    "schedule>=1.2.2",
+    "scikit-learn>=1.6.1",
+    "smartapi>=1.1.0",
+    "smartapi-python>=1.5.5",
+    "statsmodels>=0.14.4",
+    "streamlit>=1.45.0",
+    "tensorflow>=2.14.0",
+    "trafilatura>=2.0.0",
+    "weasyprint>=65.1",
+    "websocket-client>=1.8.0",
+    "yfinance>=0.2.57",
+]
